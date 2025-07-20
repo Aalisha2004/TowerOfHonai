@@ -1,4 +1,4 @@
-# TowerOfHonai
+
 # Tower of Hanoi - Java Implementation
 
 This repository contains a simple Java program that solves the classic **Tower of Hanoi** problem using **recursion**.
